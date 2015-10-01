@@ -1,0 +1,19 @@
+{
+  "name": "seconds-to-human",
+  "description": "simple seconds to humanized format",
+  "version": "0.0.1",
+  "main": "./module.js",
+  "author": "taky@taky.com",
+  "repository": "douglauer/seconds-to-human",
+  "keywords": [
+    "taky",
+    "seconds",
+    "timestamp",
+    "humanize",
+    "time",
+    "range"
+  ],
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
